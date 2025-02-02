@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="java.net.http.HttpRequest"/>
     <fullyQualifiedTypeName name="java.net.URI"/>
     <fullyQualifiedTypeName name="java.net.http.HttpResponse.BodyHandlers"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
 </qualifiedTypeNameHistroy>
