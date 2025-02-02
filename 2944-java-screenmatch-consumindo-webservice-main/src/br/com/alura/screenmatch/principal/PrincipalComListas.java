@@ -1,8 +1,4 @@
-package br.com.alura.screenmatch.principal;
-
-import br.com.alura.screenmatch.modelos.Filme;
-import br.com.alura.screenmatch.modelos.Serie;
-import br.com.alura.screenmatch.modelos.Titulo;
+/*package br.com.alura.screenmatch.principal;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,8 +6,12 @@ import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.List;
 
+import br.com.alura.screenmatch.modelos.Filme;
+import br.com.alura.screenmatch.modelos.Serie;
+import br.com.alura.screenmatch.modelos.Titulo;
+
 public class PrincipalComListas {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Filme meuFilme = new Filme("O poderoso chefão", 1970);
         meuFilme.avalia(9);
         Filme outroFilme = new Filme("Avatar", 2023);
